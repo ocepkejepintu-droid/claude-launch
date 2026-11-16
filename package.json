@@ -1,0 +1,13 @@
+{
+  "name": "claude-launch",
+  "version": "1.0.0",
+  "description": "Claude Code skill: calm product launch videos from one config file",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "setup": "npx playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.47.0"
+  }
+}

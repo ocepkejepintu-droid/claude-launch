@@ -1,0 +1,7 @@
+.build/
+*.mp4
+check.png
+reference/
+node_modules/
+.stills/
+!demo/*.mp4
